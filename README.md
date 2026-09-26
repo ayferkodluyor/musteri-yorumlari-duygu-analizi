@@ -18,3 +18,6 @@ main.py — duygu analizi modelinin eğitilmesi
 duygu_analizi.py — duygu analizi işlemlerinin gerçekleştirilmesi
 app.py — uygulamanın kullanıcı arayüzü
 
+## 📸 Uygulama Görüntüleri
+![Müşteri Yorumları Duygu Analizi - Genel Görünüm](duygu-analizi-1.jpg)
+![Müşteri Yorumları Duygu Analizi - Analiz Ekranı](duygu-analizi-2.jpg)
