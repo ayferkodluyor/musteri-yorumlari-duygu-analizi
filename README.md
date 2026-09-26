@@ -16,7 +16,9 @@ Sonuçlar kullanıcı arayüzü üzerinden görüntülenir.
 📁 Proje Dosyaları
 
 main.py — duygu analizi modelinin eğitilmesi
+
 duygu_analizi.py — duygu analizi işlemlerinin gerçekleştirilmesi
+
 app.py — uygulamanın kullanıcı arayüzü
 
 ## 📸 Uygulama Görüntüleri
