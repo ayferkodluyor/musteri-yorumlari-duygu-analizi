@@ -21,3 +21,7 @@ app.py — uygulamanın kullanıcı arayüzü
 ## 📸 Uygulama Görüntüleri
 ![Müşteri Yorumları Duygu Analizi - Genel Görünüm](duygu-analizi-1.jpg)
 ![Müşteri Yorumları Duygu Analizi - Analiz Ekranı](duygu-analizi-2.jpg)
+
+## 🎥 Proje Videosu
+Müşteri Yorumları Duygu Analizi projesinin kısa tanıtım videosunu YouTube kanalımda izleyebilirsiniz:
+https://www.youtube.com/watch?v=1iRePdbG4lw
