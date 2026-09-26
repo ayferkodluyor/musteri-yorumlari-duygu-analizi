@@ -1,5 +1,6 @@
 
 💬 Müşteri Yorumları Duygu Analizi
+
 Müşteri yorumlarını analiz ederek yorumların duygu durumunu sınıflandırmaya yönelik geliştirdiğim Python tabanlı bir eğitim ve portföy projesidir.
 
 🎯 Projenin Amacı
